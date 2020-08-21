@@ -1,0 +1,301 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\n.almeida\\OneDrive\\Documents\\Projeto Gal\\GalGOT\\GalGoT\\1 - Services\\GalGotAPI\\GalGotAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\n.almeida\\OneDrive\\Documents\\Projeto Gal\\GalGOT\\GalGoT\\1 - Services\\GalGotAPI\\GalGotAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\n.almeida\\OneDrive\\Documents\\Projeto Gal\\GalGOT\\GalGoT\\1 - Services\\GalGotAPI\\GalGotAPI.csproj",
+        "projectName": "GalGotAPI",
+        "projectPath": "C:\\Users\\n.almeida\\OneDrive\\Documents\\Projeto Gal\\GalGOT\\GalGoT\\1 - Services\\GalGotAPI\\GalGotAPI.csproj",
+        "packagesPath": "C:\\Users\\n.almeida\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\n.almeida\\OneDrive\\Documents\\Projeto Gal\\GalGOT\\GalGoT\\1 - Services\\GalGotAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\n.almeida\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\n.almeida\\OneDrive\\Documents\\Projeto Gal\\GalGOT\\GalGoT\\2 - Application\\GalGot.Aplication\\GalGOT.Aplication.csproj": {
+                "projectPath": "C:\\Users\\n.almeida\\OneDrive\\Documents\\Projeto Gal\\GalGOT\\GalGoT\\2 - Application\\GalGot.Aplication\\GalGOT.Aplication.csproj"
+              },
+              "C:\\Users\\n.almeida\\OneDrive\\Documents\\Projeto Gal\\GalGOT\\GalGoT\\3 - Domain\\GalGOT.Domain\\GalGOT.Domain.csproj": {
+                "projectPath": "C:\\Users\\n.almeida\\OneDrive\\Documents\\Projeto Gal\\GalGOT\\GalGoT\\3 - Domain\\GalGOT.Domain\\GalGOT.Domain.csproj"
+              },
+              "C:\\Users\\n.almeida\\OneDrive\\Documents\\Projeto Gal\\GalGOT\\GalGoT\\4 - Infra\\GalGOT.Infra\\GalGOT.Infra.csproj": {
+                "projectPath": "C:\\Users\\n.almeida\\OneDrive\\Documents\\Projeto Gal\\GalGOT\\GalGoT\\4 - Infra\\GalGOT.Infra\\GalGOT.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\n.almeida\\OneDrive\\Documents\\Projeto Gal\\GalGOT\\GalGoT\\2 - Application\\GalGot.Aplication\\GalGOT.Aplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\n.almeida\\OneDrive\\Documents\\Projeto Gal\\GalGOT\\GalGoT\\2 - Application\\GalGot.Aplication\\GalGOT.Aplication.csproj",
+        "projectName": "GalGOT.Aplication",
+        "projectPath": "C:\\Users\\n.almeida\\OneDrive\\Documents\\Projeto Gal\\GalGOT\\GalGoT\\2 - Application\\GalGot.Aplication\\GalGOT.Aplication.csproj",
+        "packagesPath": "C:\\Users\\n.almeida\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\n.almeida\\OneDrive\\Documents\\Projeto Gal\\GalGOT\\GalGoT\\2 - Application\\GalGot.Aplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\n.almeida\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\n.almeida\\OneDrive\\Documents\\Projeto Gal\\GalGOT\\GalGoT\\3 - Domain\\GalGOT.Domain\\GalGOT.Domain.csproj": {
+                "projectPath": "C:\\Users\\n.almeida\\OneDrive\\Documents\\Projeto Gal\\GalGOT\\GalGoT\\3 - Domain\\GalGOT.Domain\\GalGOT.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\n.almeida\\OneDrive\\Documents\\Projeto Gal\\GalGOT\\GalGoT\\3 - Domain\\GalGOT.Domain\\GalGOT.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\n.almeida\\OneDrive\\Documents\\Projeto Gal\\GalGOT\\GalGoT\\3 - Domain\\GalGOT.Domain\\GalGOT.Domain.csproj",
+        "projectName": "GalGOT.Domain",
+        "projectPath": "C:\\Users\\n.almeida\\OneDrive\\Documents\\Projeto Gal\\GalGOT\\GalGoT\\3 - Domain\\GalGOT.Domain\\GalGOT.Domain.csproj",
+        "packagesPath": "C:\\Users\\n.almeida\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\n.almeida\\OneDrive\\Documents\\Projeto Gal\\GalGOT\\GalGoT\\3 - Domain\\GalGOT.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\n.almeida\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "System.Runtime.WindowsRuntime.UI.Xaml": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\n.almeida\\OneDrive\\Documents\\Projeto Gal\\GalGOT\\GalGoT\\4 - Infra\\GalGOT.Infra\\GalGOT.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\n.almeida\\OneDrive\\Documents\\Projeto Gal\\GalGOT\\GalGoT\\4 - Infra\\GalGOT.Infra\\GalGOT.Infra.csproj",
+        "projectName": "GalGOT.Infra",
+        "projectPath": "C:\\Users\\n.almeida\\OneDrive\\Documents\\Projeto Gal\\GalGOT\\GalGoT\\4 - Infra\\GalGOT.Infra\\GalGOT.Infra.csproj",
+        "packagesPath": "C:\\Users\\n.almeida\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\n.almeida\\OneDrive\\Documents\\Projeto Gal\\GalGOT\\GalGoT\\4 - Infra\\GalGOT.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\n.almeida\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\n.almeida\\OneDrive\\Documents\\Projeto Gal\\GalGOT\\GalGoT\\3 - Domain\\GalGOT.Domain\\GalGOT.Domain.csproj": {
+                "projectPath": "C:\\Users\\n.almeida\\OneDrive\\Documents\\Projeto Gal\\GalGOT\\GalGoT\\3 - Domain\\GalGOT.Domain\\GalGOT.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.11.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
